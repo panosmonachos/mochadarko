@@ -1,0 +1,30 @@
+
+body{
+  text-align: center;
+  background-color: #f6eedf;
+  color: #f57b51;
+  font-family: BioRhyme;
+  margin-left:10%;
+  margin-right: 10%;
+}
+h1{
+  color: #d63447;
+}
+table{
+  margin: auto;
+  text-align: left;
+}
+
+hr{
+  width: 10%;
+  border-color: #f57b51;
+  border-style: dotted none none;
+  border-width=30px;
+}
+h3{
+  color:#d63447;
+}
+
+a:link, a:visited{
+  text-decoration:none;
+}
